@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IncomeTaxCalculatorMain",
+            "request": "launch",
+            "mainClass": "app.IncomeTaxCalculatorMain",
+            "projectName": "income-tax-calculator"
+        }
+    ]
+}

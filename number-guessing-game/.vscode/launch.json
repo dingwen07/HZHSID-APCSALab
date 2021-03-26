@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NumberGuessingGameMain",
+            "request": "launch",
+            "mainClass": "app.NumberGuessingGameMain",
+            "projectName": "number-guessing-game"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StudentMaker",
+            "request": "launch",
+            "mainClass": "app.StudentMaker",
+            "projectName": "student-class"
+        }
+    ]
+}
